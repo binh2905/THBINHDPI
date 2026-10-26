@@ -1,0 +1,1602 @@
+[
+  {
+    "apps": [
+      "com.ff.garena.freefire"
+    ],
+    "inject_modules": [
+      "com.aimcore.inject"
+    ],
+    "flags": {
+      "HeadShotBias": "0.9",
+      "CrosshairLock": "ultra",
+      "TrackingSensitivity": "1.2",
+      "AimAssistBoost": "1.18"
+    },
+    "status": "on",
+    "tag": "vtam_lockall_90_95"
+  },
+  {
+    "apps": [
+      "com.ff.garena.freefire"
+    ],
+    "inject_modules": [
+      "com.aimcore.inject"
+    ],
+    "flags": {
+      "HeadShotBias": "0.901",
+      "CrosshairLock": "ultra",
+      "TrackingSensitivity": "1.201",
+      "AimAssistBoost": "1.181"
+    },
+    "status": "on",
+    "tag": "vtam_lockall_91_96"
+  },
+  {
+    "apps": [
+      "com.ff.garena.freefire"
+    ],
+    "inject_modules": [
+      "com.aimcore.inject"
+    ],
+    "flags": {
+      "HeadShotBias": "0.902",
+      "CrosshairLock": "ultra",
+      "TrackingSensitivity": "1.202",
+      "AimAssistBoost": "1.182"
+    },
+    "status": "on",
+    "tag": "vtam_lockall_92_97"
+  },
+  {
+    "apps": [
+      "com.ff.garena.freefire"
+    ],
+    "inject_modules": [
+      "com.aimcore.inject"
+    ],
+    "flags": {
+      "HeadShotBias": "0.903",
+      "CrosshairLock": "ultra",
+      "TrackingSensitivity": "1.203",
+      "AimAssistBoost": "1.183"
+    },
+    "status": "on",
+    "tag": "vtam_lockall_93_98"
+  },
+  {
+    "apps": [
+      "com.ff.garena.freefire"
+    ],
+    "inject_modules": [
+      "com.aimcore.inject"
+    ],
+    "flags": {
+      "HeadShotBias": "0.904",
+      "CrosshairLock": "ultra",
+      "TrackingSensitivity": "1.204",
+      "AimAssistBoost": "1.184"
+    },
+    "status": "on",
+    "tag": "vtam_lockall_94_99"
+  },
+  {
+    "apps": [
+      "com.ff.garena.freefire"
+    ],
+    "inject_modules": [
+      "com.aimcore.inject"
+    ],
+    "flags": {
+      "HeadShotBias": "0.905",
+      "CrosshairLock": "ultra",
+      "TrackingSensitivity": "1.205",
+      "AimAssistBoost": "1.185"
+    },
+    "status": "on",
+    "tag": "vtam_lockall_95_95"
+  },
+  {
+    "apps": [
+      "com.ff.garena.freefire"
+    ],
+    "inject_modules": [
+      "com.aimcore.inject"
+    ],
+    "flags": {
+      "HeadShotBias": "0.906",
+      "CrosshairLock": "ultra",
+      "TrackingSensitivity": "1.206",
+      "AimAssistBoost": "1.186"
+    },
+    "status": "on",
+    "tag": "vtam_lockall_96_96"
+  },
+  {
+    "apps": [
+      "com.ff.garena.freefire"
+    ],
+    "inject_modules": [
+      "com.aimcore.inject"
+    ],
+    "flags": {
+      "HeadShotBias": "0.907",
+      "CrosshairLock": "ultra",
+      "TrackingSensitivity": "1.207",
+      "AimAssistBoost": "1.187"
+    },
+    "status": "on",
+    "tag": "vtam_lockall_97_97"
+  },
+  {
+    "apps": [
+      "com.ff.garena.freefire"
+    ],
+    "inject_modules": [
+      "com.aimcore.inject"
+    ],
+    "flags": {
+      "HeadShotBias": "0.908",
+      "CrosshairLock": "ultra",
+      "TrackingSensitivity": "1.208",
+      "AimAssistBoost": "1.188"
+    },
+    "status": "on",
+    "tag": "vtam_lockall_98_98"
+  },
+  {
+    "apps": [
+      "com.ff.garena.freefire"
+    ],
+    "inject_modules": [
+      "com.aimcore.inject"
+    ],
+    "flags": {
+      "HeadShotBias": "0.909",
+      "CrosshairLock": "ultra",
+      "TrackingSensitivity": "1.209",
+      "AimAssistBoost": "1.189"
+    },
+    "status": "on",
+    "tag": "vtam_lockall_99_99"
+  },
+  {
+    "apps": [
+      "com.ff.garena.freefire"
+    ],
+    "inject_modules": [
+      "com.aimcore.inject"
+    ],
+    "flags": {
+      "HeadShotBias": "0.91",
+      "CrosshairLock": "ultra",
+      "TrackingSensitivity": "1.21",
+      "AimAssistBoost": "1.19"
+    },
+    "status": "on",
+    "tag": "vtam_lockall_90_95"
+  },
+  {
+    "apps": [
+      "com.ff.garena.freefire"
+    ],
+    "inject_modules": [
+      "com.aimcore.inject"
+    ],
+    "flags": {
+      "HeadShotBias": "0.911",
+      "CrosshairLock": "ultra",
+      "TrackingSensitivity": "1.211",
+      "AimAssistBoost": "1.191"
+    },
+    "status": "on",
+    "tag": "vtam_lockall_91_96"
+  },
+  {
+    "apps": [
+      "com.ff.garena.freefire"
+    ],
+    "inject_modules": [
+      "com.aimcore.inject"
+    ],
+    "flags": {
+      "HeadShotBias": "0.912",
+      "CrosshairLock": "ultra",
+      "TrackingSensitivity": "1.212",
+      "AimAssistBoost": "1.192"
+    },
+    "status": "on",
+    "tag": "vtam_lockall_92_97"
+  },
+  {
+    "apps": [
+      "com.ff.garena.freefire"
+    ],
+    "inject_modules": [
+      "com.aimcore.inject"
+    ],
+    "flags": {
+      "HeadShotBias": "0.913",
+      "CrosshairLock": "ultra",
+      "TrackingSensitivity": "1.213",
+      "AimAssistBoost": "1.193"
+    },
+    "status": "on",
+    "tag": "vtam_lockall_93_98"
+  },
+  {
+    "apps": [
+      "com.ff.garena.freefire"
+    ],
+    "inject_modules": [
+      "com.aimcore.inject"
+    ],
+    "flags": {
+      "HeadShotBias": "0.914",
+      "CrosshairLock": "ultra",
+      "TrackingSensitivity": "1.214",
+      "AimAssistBoost": "1.194"
+    },
+    "status": "on",
+    "tag": "vtam_lockall_94_99"
+  },
+  {
+    "apps": [
+      "com.ff.garena.freefire"
+    ],
+    "inject_modules": [
+      "com.aimcore.inject"
+    ],
+    "flags": {
+      "HeadShotBias": "0.915",
+      "CrosshairLock": "ultra",
+      "TrackingSensitivity": "1.215",
+      "AimAssistBoost": "1.195"
+    },
+    "status": "on",
+    "tag": "vtam_lockall_95_95"
+  },
+  {
+    "apps": [
+      "com.ff.garena.freefire"
+    ],
+    "inject_modules": [
+      "com.aimcore.inject"
+    ],
+    "flags": {
+      "HeadShotBias": "0.916",
+      "CrosshairLock": "ultra",
+      "TrackingSensitivity": "1.216",
+      "AimAssistBoost": "1.196"
+    },
+    "status": "on",
+    "tag": "vtam_lockall_96_96"
+  },
+  {
+    "apps": [
+      "com.ff.garena.freefire"
+    ],
+    "inject_modules": [
+      "com.aimcore.inject"
+    ],
+    "flags": {
+      "HeadShotBias": "0.917",
+      "CrosshairLock": "ultra",
+      "TrackingSensitivity": "1.217",
+      "AimAssistBoost": "1.197"
+    },
+    "status": "on",
+    "tag": "vtam_lockall_97_97"
+  },
+  {
+    "apps": [
+      "com.ff.garena.freefire"
+    ],
+    "inject_modules": [
+      "com.aimcore.inject"
+    ],
+    "flags": {
+      "HeadShotBias": "0.918",
+      "CrosshairLock": "ultra",
+      "TrackingSensitivity": "1.218",
+      "AimAssistBoost": "1.198"
+    },
+    "status": "on",
+    "tag": "vtam_lockall_98_98"
+  },
+  {
+    "apps": [
+      "com.ff.garena.freefire"
+    ],
+    "inject_modules": [
+      "com.aimcore.inject"
+    ],
+    "flags": {
+      "HeadShotBias": "0.919",
+      "CrosshairLock": "ultra",
+      "TrackingSensitivity": "1.219",
+      "AimAssistBoost": "1.199"
+    },
+    "status": "on",
+    "tag": "vtam_lockall_99_99"
+  },
+  {
+    "apps": [
+      "com.ff.garena.freefire"
+    ],
+    "inject_modules": [
+      "com.aimcore.inject"
+    ],
+    "flags": {
+      "HeadShotBias": "0.92",
+      "CrosshairLock": "ultra",
+      "TrackingSensitivity": "1.22",
+      "AimAssistBoost": "1.2"
+    },
+    "status": "on",
+    "tag": "vtam_lockall_90_95"
+  },
+  {
+    "apps": [
+      "com.ff.garena.freefire"
+    ],
+    "inject_modules": [
+      "com.aimcore.inject"
+    ],
+    "flags": {
+      "HeadShotBias": "0.921",
+      "CrosshairLock": "ultra",
+      "TrackingSensitivity": "1.221",
+      "AimAssistBoost": "1.201"
+    },
+    "status": "on",
+    "tag": "vtam_lockall_91_96"
+  },
+  {
+    "apps": [
+      "com.ff.garena.freefire"
+    ],
+    "inject_modules": [
+      "com.aimcore.inject"
+    ],
+    "flags": {
+      "HeadShotBias": "0.922",
+      "CrosshairLock": "ultra",
+      "TrackingSensitivity": "1.222",
+      "AimAssistBoost": "1.202"
+    },
+    "status": "on",
+    "tag": "vtam_lockall_92_97"
+  },
+  {
+    "apps": [
+      "com.ff.garena.freefire"
+    ],
+    "inject_modules": [
+      "com.aimcore.inject"
+    ],
+    "flags": {
+      "HeadShotBias": "0.923",
+      "CrosshairLock": "ultra",
+      "TrackingSensitivity": "1.223",
+      "AimAssistBoost": "1.203"
+    },
+    "status": "on",
+    "tag": "vtam_lockall_93_98"
+  },
+  {
+    "apps": [
+      "com.ff.garena.freefire"
+    ],
+    "inject_modules": [
+      "com.aimcore.inject"
+    ],
+    "flags": {
+      "HeadShotBias": "0.924",
+      "CrosshairLock": "ultra",
+      "TrackingSensitivity": "1.224",
+      "AimAssistBoost": "1.204"
+    },
+    "status": "on",
+    "tag": "vtam_lockall_94_99"
+  },
+  {
+    "apps": [
+      "com.ff.garena.freefire"
+    ],
+    "inject_modules": [
+      "com.aimcore.inject"
+    ],
+    "flags": {
+      "HeadShotBias": "0.925",
+      "CrosshairLock": "ultra",
+      "TrackingSensitivity": "1.225",
+      "AimAssistBoost": "1.205"
+    },
+    "status": "on",
+    "tag": "vtam_lockall_95_95"
+  },
+  {
+    "apps": [
+      "com.ff.garena.freefire"
+    ],
+    "inject_modules": [
+      "com.aimcore.inject"
+    ],
+    "flags": {
+      "HeadShotBias": "0.926",
+      "CrosshairLock": "ultra",
+      "TrackingSensitivity": "1.226",
+      "AimAssistBoost": "1.206"
+    },
+    "status": "on",
+    "tag": "vtam_lockall_96_96"
+  },
+  {
+    "apps": [
+      "com.ff.garena.freefire"
+    ],
+    "inject_modules": [
+      "com.aimcore.inject"
+    ],
+    "flags": {
+      "HeadShotBias": "0.927",
+      "CrosshairLock": "ultra",
+      "TrackingSensitivity": "1.227",
+      "AimAssistBoost": "1.207"
+    },
+    "status": "on",
+    "tag": "vtam_lockall_97_97"
+  },
+  {
+    "apps": [
+      "com.ff.garena.freefire"
+    ],
+    "inject_modules": [
+      "com.aimcore.inject"
+    ],
+    "flags": {
+      "HeadShotBias": "0.928",
+      "CrosshairLock": "ultra",
+      "TrackingSensitivity": "1.228",
+      "AimAssistBoost": "1.208"
+    },
+    "status": "on",
+    "tag": "vtam_lockall_98_98"
+  },
+  {
+    "apps": [
+      "com.ff.garena.freefire"
+    ],
+    "inject_modules": [
+      "com.aimcore.inject"
+    ],
+    "flags": {
+      "HeadShotBias": "0.929",
+      "CrosshairLock": "ultra",
+      "TrackingSensitivity": "1.229",
+      "AimAssistBoost": "1.209"
+    },
+    "status": "on",
+    "tag": "vtam_lockall_99_99"
+  },
+  {
+    "apps": [
+      "com.ff.garena.freefire"
+    ],
+    "inject_modules": [
+      "com.aimcore.inject"
+    ],
+    "flags": {
+      "HeadShotBias": "0.93",
+      "CrosshairLock": "ultra",
+      "TrackingSensitivity": "1.23",
+      "AimAssistBoost": "1.21"
+    },
+    "status": "on",
+    "tag": "vtam_lockall_90_95"
+  },
+  {
+    "apps": [
+      "com.ff.garena.freefire"
+    ],
+    "inject_modules": [
+      "com.aimcore.inject"
+    ],
+    "flags": {
+      "HeadShotBias": "0.931",
+      "CrosshairLock": "ultra",
+      "TrackingSensitivity": "1.231",
+      "AimAssistBoost": "1.211"
+    },
+    "status": "on",
+    "tag": "vtam_lockall_91_96"
+  },
+  {
+    "apps": [
+      "com.ff.garena.freefire"
+    ],
+    "inject_modules": [
+      "com.aimcore.inject"
+    ],
+    "flags": {
+      "HeadShotBias": "0.932",
+      "CrosshairLock": "ultra",
+      "TrackingSensitivity": "1.232",
+      "AimAssistBoost": "1.212"
+    },
+    "status": "on",
+    "tag": "vtam_lockall_92_97"
+  },
+  {
+    "apps": [
+      "com.ff.garena.freefire"
+    ],
+    "inject_modules": [
+      "com.aimcore.inject"
+    ],
+    "flags": {
+      "HeadShotBias": "0.933",
+      "CrosshairLock": "ultra",
+      "TrackingSensitivity": "1.233",
+      "AimAssistBoost": "1.213"
+    },
+    "status": "on",
+    "tag": "vtam_lockall_93_98"
+  },
+  {
+    "apps": [
+      "com.ff.garena.freefire"
+    ],
+    "inject_modules": [
+      "com.aimcore.inject"
+    ],
+    "flags": {
+      "HeadShotBias": "0.934",
+      "CrosshairLock": "ultra",
+      "TrackingSensitivity": "1.234",
+      "AimAssistBoost": "1.214"
+    },
+    "status": "on",
+    "tag": "vtam_lockall_94_99"
+  },
+  {
+    "apps": [
+      "com.ff.garena.freefire"
+    ],
+    "inject_modules": [
+      "com.aimcore.inject"
+    ],
+    "flags": {
+      "HeadShotBias": "0.935",
+      "CrosshairLock": "ultra",
+      "TrackingSensitivity": "1.235",
+      "AimAssistBoost": "1.215"
+    },
+    "status": "on",
+    "tag": "vtam_lockall_95_95"
+  },
+  {
+    "apps": [
+      "com.ff.garena.freefire"
+    ],
+    "inject_modules": [
+      "com.aimcore.inject"
+    ],
+    "flags": {
+      "HeadShotBias": "0.936",
+      "CrosshairLock": "ultra",
+      "TrackingSensitivity": "1.236",
+      "AimAssistBoost": "1.216"
+    },
+    "status": "on",
+    "tag": "vtam_lockall_96_96"
+  },
+  {
+    "apps": [
+      "com.ff.garena.freefire"
+    ],
+    "inject_modules": [
+      "com.aimcore.inject"
+    ],
+    "flags": {
+      "HeadShotBias": "0.937",
+      "CrosshairLock": "ultra",
+      "TrackingSensitivity": "1.237",
+      "AimAssistBoost": "1.217"
+    },
+    "status": "on",
+    "tag": "vtam_lockall_97_97"
+  },
+  {
+    "apps": [
+      "com.ff.garena.freefire"
+    ],
+    "inject_modules": [
+      "com.aimcore.inject"
+    ],
+    "flags": {
+      "HeadShotBias": "0.938",
+      "CrosshairLock": "ultra",
+      "TrackingSensitivity": "1.238",
+      "AimAssistBoost": "1.218"
+    },
+    "status": "on",
+    "tag": "vtam_lockall_98_98"
+  },
+  {
+    "apps": [
+      "com.ff.garena.freefire"
+    ],
+    "inject_modules": [
+      "com.aimcore.inject"
+    ],
+    "flags": {
+      "HeadShotBias": "0.939",
+      "CrosshairLock": "ultra",
+      "TrackingSensitivity": "1.239",
+      "AimAssistBoost": "1.219"
+    },
+    "status": "on",
+    "tag": "vtam_lockall_99_99"
+  },
+  {
+    "apps": [
+      "com.ff.garena.freefire"
+    ],
+    "inject_modules": [
+      "com.aimcore.inject"
+    ],
+    "flags": {
+      "HeadShotBias": "0.94",
+      "CrosshairLock": "ultra",
+      "TrackingSensitivity": "1.24",
+      "AimAssistBoost": "1.22"
+    },
+    "status": "on",
+    "tag": "vtam_lockall_90_95"
+  },
+  {
+    "apps": [
+      "com.ff.garena.freefire"
+    ],
+    "inject_modules": [
+      "com.aimcore.inject"
+    ],
+    "flags": {
+      "HeadShotBias": "0.941",
+      "CrosshairLock": "ultra",
+      "TrackingSensitivity": "1.241",
+      "AimAssistBoost": "1.221"
+    },
+    "status": "on",
+    "tag": "vtam_lockall_91_96"
+  },
+  {
+    "apps": [
+      "com.ff.garena.freefire"
+    ],
+    "inject_modules": [
+      "com.aimcore.inject"
+    ],
+    "flags": {
+      "HeadShotBias": "0.942",
+      "CrosshairLock": "ultra",
+      "TrackingSensitivity": "1.242",
+      "AimAssistBoost": "1.222"
+    },
+    "status": "on",
+    "tag": "vtam_lockall_92_97"
+  },
+  {
+    "apps": [
+      "com.ff.garena.freefire"
+    ],
+    "inject_modules": [
+      "com.aimcore.inject"
+    ],
+    "flags": {
+      "HeadShotBias": "0.943",
+      "CrosshairLock": "ultra",
+      "TrackingSensitivity": "1.243",
+      "AimAssistBoost": "1.223"
+    },
+    "status": "on",
+    "tag": "vtam_lockall_93_98"
+  },
+  {
+    "apps": [
+      "com.ff.garena.freefire"
+    ],
+    "inject_modules": [
+      "com.aimcore.inject"
+    ],
+    "flags": {
+      "HeadShotBias": "0.944",
+      "CrosshairLock": "ultra",
+      "TrackingSensitivity": "1.244",
+      "AimAssistBoost": "1.224"
+    },
+    "status": "on",
+    "tag": "vtam_lockall_94_99"
+  },
+  {
+    "apps": [
+      "com.ff.garena.freefire"
+    ],
+    "inject_modules": [
+      "com.aimcore.inject"
+    ],
+    "flags": {
+      "HeadShotBias": "0.945",
+      "CrosshairLock": "ultra",
+      "TrackingSensitivity": "1.245",
+      "AimAssistBoost": "1.225"
+    },
+    "status": "on",
+    "tag": "vtam_lockall_95_95"
+  },
+  {
+    "apps": [
+      "com.ff.garena.freefire"
+    ],
+    "inject_modules": [
+      "com.aimcore.inject"
+    ],
+    "flags": {
+      "HeadShotBias": "0.946",
+      "CrosshairLock": "ultra",
+      "TrackingSensitivity": "1.246",
+      "AimAssistBoost": "1.226"
+    },
+    "status": "on",
+    "tag": "vtam_lockall_96_96"
+  },
+  {
+    "apps": [
+      "com.ff.garena.freefire"
+    ],
+    "inject_modules": [
+      "com.aimcore.inject"
+    ],
+    "flags": {
+      "HeadShotBias": "0.947",
+      "CrosshairLock": "ultra",
+      "TrackingSensitivity": "1.247",
+      "AimAssistBoost": "1.227"
+    },
+    "status": "on",
+    "tag": "vtam_lockall_97_97"
+  },
+  {
+    "apps": [
+      "com.ff.garena.freefire"
+    ],
+    "inject_modules": [
+      "com.aimcore.inject"
+    ],
+    "flags": {
+      "HeadShotBias": "0.948",
+      "CrosshairLock": "ultra",
+      "TrackingSensitivity": "1.248",
+      "AimAssistBoost": "1.228"
+    },
+    "status": "on",
+    "tag": "vtam_lockall_98_98"
+  },
+  {
+    "apps": [
+      "com.ff.garena.freefire"
+    ],
+    "inject_modules": [
+      "com.aimcore.inject"
+    ],
+    "flags": {
+      "HeadShotBias": "0.949",
+      "CrosshairLock": "ultra",
+      "TrackingSensitivity": "1.249",
+      "AimAssistBoost": "1.229"
+    },
+    "status": "on",
+    "tag": "vtam_lockall_99_99"
+  },
+  {
+    "apps": [
+      "com.ff.garena.freefire"
+    ],
+    "inject_modules": [
+      "com.aimcore.inject"
+    ],
+    "flags": {
+      "HeadShotBias": "0.95",
+      "CrosshairLock": "ultra",
+      "TrackingSensitivity": "1.25",
+      "AimAssistBoost": "1.23"
+    },
+    "status": "on",
+    "tag": "vtam_lockall_90_95"
+  },
+  {
+    "apps": [
+      "com.ff.garena.freefire"
+    ],
+    "inject_modules": [
+      "com.aimcore.inject"
+    ],
+    "flags": {
+      "HeadShotBias": "0.951",
+      "CrosshairLock": "ultra",
+      "TrackingSensitivity": "1.251",
+      "AimAssistBoost": "1.231"
+    },
+    "status": "on",
+    "tag": "vtam_lockall_91_96"
+  },
+  {
+    "apps": [
+      "com.ff.garena.freefire"
+    ],
+    "inject_modules": [
+      "com.aimcore.inject"
+    ],
+    "flags": {
+      "HeadShotBias": "0.952",
+      "CrosshairLock": "ultra",
+      "TrackingSensitivity": "1.252",
+      "AimAssistBoost": "1.232"
+    },
+    "status": "on",
+    "tag": "vtam_lockall_92_97"
+  },
+  {
+    "apps": [
+      "com.ff.garena.freefire"
+    ],
+    "inject_modules": [
+      "com.aimcore.inject"
+    ],
+    "flags": {
+      "HeadShotBias": "0.953",
+      "CrosshairLock": "ultra",
+      "TrackingSensitivity": "1.253",
+      "AimAssistBoost": "1.233"
+    },
+    "status": "on",
+    "tag": "vtam_lockall_93_98"
+  },
+  {
+    "apps": [
+      "com.ff.garena.freefire"
+    ],
+    "inject_modules": [
+      "com.aimcore.inject"
+    ],
+    "flags": {
+      "HeadShotBias": "0.954",
+      "CrosshairLock": "ultra",
+      "TrackingSensitivity": "1.254",
+      "AimAssistBoost": "1.234"
+    },
+    "status": "on",
+    "tag": "vtam_lockall_94_99"
+  },
+  {
+    "apps": [
+      "com.ff.garena.freefire"
+    ],
+    "inject_modules": [
+      "com.aimcore.inject"
+    ],
+    "flags": {
+      "HeadShotBias": "0.955",
+      "CrosshairLock": "ultra",
+      "TrackingSensitivity": "1.255",
+      "AimAssistBoost": "1.235"
+    },
+    "status": "on",
+    "tag": "vtam_lockall_95_95"
+  },
+  {
+    "apps": [
+      "com.ff.garena.freefire"
+    ],
+    "inject_modules": [
+      "com.aimcore.inject"
+    ],
+    "flags": {
+      "HeadShotBias": "0.956",
+      "CrosshairLock": "ultra",
+      "TrackingSensitivity": "1.256",
+      "AimAssistBoost": "1.236"
+    },
+    "status": "on",
+    "tag": "vtam_lockall_96_96"
+  },
+  {
+    "apps": [
+      "com.ff.garena.freefire"
+    ],
+    "inject_modules": [
+      "com.aimcore.inject"
+    ],
+    "flags": {
+      "HeadShotBias": "0.957",
+      "CrosshairLock": "ultra",
+      "TrackingSensitivity": "1.257",
+      "AimAssistBoost": "1.237"
+    },
+    "status": "on",
+    "tag": "vtam_lockall_97_97"
+  },
+  {
+    "apps": [
+      "com.ff.garena.freefire"
+    ],
+    "inject_modules": [
+      "com.aimcore.inject"
+    ],
+    "flags": {
+      "HeadShotBias": "0.958",
+      "CrosshairLock": "ultra",
+      "TrackingSensitivity": "1.258",
+      "AimAssistBoost": "1.238"
+    },
+    "status": "on",
+    "tag": "vtam_lockall_98_98"
+  },
+  {
+    "apps": [
+      "com.ff.garena.freefire"
+    ],
+    "inject_modules": [
+      "com.aimcore.inject"
+    ],
+    "flags": {
+      "HeadShotBias": "0.959",
+      "CrosshairLock": "ultra",
+      "TrackingSensitivity": "1.259",
+      "AimAssistBoost": "1.239"
+    },
+    "status": "on",
+    "tag": "vtam_lockall_99_99"
+  },
+  {
+    "apps": [
+      "com.ff.garena.freefire"
+    ],
+    "inject_modules": [
+      "com.aimcore.inject"
+    ],
+    "flags": {
+      "HeadShotBias": "0.96",
+      "CrosshairLock": "ultra",
+      "TrackingSensitivity": "1.26",
+      "AimAssistBoost": "1.24"
+    },
+    "status": "on",
+    "tag": "vtam_lockall_90_95"
+  },
+  {
+    "apps": [
+      "com.ff.garena.freefire"
+    ],
+    "inject_modules": [
+      "com.aimcore.inject"
+    ],
+    "flags": {
+      "HeadShotBias": "0.961",
+      "CrosshairLock": "ultra",
+      "TrackingSensitivity": "1.261",
+      "AimAssistBoost": "1.241"
+    },
+    "status": "on",
+    "tag": "vtam_lockall_91_96"
+  },
+  {
+    "apps": [
+      "com.ff.garena.freefire"
+    ],
+    "inject_modules": [
+      "com.aimcore.inject"
+    ],
+    "flags": {
+      "HeadShotBias": "0.962",
+      "CrosshairLock": "ultra",
+      "TrackingSensitivity": "1.262",
+      "AimAssistBoost": "1.242"
+    },
+    "status": "on",
+    "tag": "vtam_lockall_92_97"
+  },
+  {
+    "apps": [
+      "com.ff.garena.freefire"
+    ],
+    "inject_modules": [
+      "com.aimcore.inject"
+    ],
+    "flags": {
+      "HeadShotBias": "0.963",
+      "CrosshairLock": "ultra",
+      "TrackingSensitivity": "1.263",
+      "AimAssistBoost": "1.243"
+    },
+    "status": "on",
+    "tag": "vtam_lockall_93_98"
+  },
+  {
+    "apps": [
+      "com.ff.garena.freefire"
+    ],
+    "inject_modules": [
+      "com.aimcore.inject"
+    ],
+    "flags": {
+      "HeadShotBias": "0.964",
+      "CrosshairLock": "ultra",
+      "TrackingSensitivity": "1.264",
+      "AimAssistBoost": "1.244"
+    },
+    "status": "on",
+    "tag": "vtam_lockall_94_99"
+  },
+  {
+    "apps": [
+      "com.ff.garena.freefire"
+    ],
+    "inject_modules": [
+      "com.aimcore.inject"
+    ],
+    "flags": {
+      "HeadShotBias": "0.965",
+      "CrosshairLock": "ultra",
+      "TrackingSensitivity": "1.265",
+      "AimAssistBoost": "1.245"
+    },
+    "status": "on",
+    "tag": "vtam_lockall_95_95"
+  },
+  {
+    "apps": [
+      "com.ff.garena.freefire"
+    ],
+    "inject_modules": [
+      "com.aimcore.inject"
+    ],
+    "flags": {
+      "HeadShotBias": "0.966",
+      "CrosshairLock": "ultra",
+      "TrackingSensitivity": "1.266",
+      "AimAssistBoost": "1.246"
+    },
+    "status": "on",
+    "tag": "vtam_lockall_96_96"
+  },
+  {
+    "apps": [
+      "com.ff.garena.freefire"
+    ],
+    "inject_modules": [
+      "com.aimcore.inject"
+    ],
+    "flags": {
+      "HeadShotBias": "0.967",
+      "CrosshairLock": "ultra",
+      "TrackingSensitivity": "1.267",
+      "AimAssistBoost": "1.247"
+    },
+    "status": "on",
+    "tag": "vtam_lockall_97_97"
+  },
+  {
+    "apps": [
+      "com.ff.garena.freefire"
+    ],
+    "inject_modules": [
+      "com.aimcore.inject"
+    ],
+    "flags": {
+      "HeadShotBias": "0.968",
+      "CrosshairLock": "ultra",
+      "TrackingSensitivity": "1.268",
+      "AimAssistBoost": "1.248"
+    },
+    "status": "on",
+    "tag": "vtam_lockall_98_98"
+  },
+  {
+    "apps": [
+      "com.ff.garena.freefire"
+    ],
+    "inject_modules": [
+      "com.aimcore.inject"
+    ],
+    "flags": {
+      "HeadShotBias": "0.969",
+      "CrosshairLock": "ultra",
+      "TrackingSensitivity": "1.269",
+      "AimAssistBoost": "1.249"
+    },
+    "status": "on",
+    "tag": "vtam_lockall_99_99"
+  },
+  {
+    "apps": [
+      "com.ff.garena.freefire"
+    ],
+    "inject_modules": [
+      "com.aimcore.inject"
+    ],
+    "flags": {
+      "HeadShotBias": "0.97",
+      "CrosshairLock": "ultra",
+      "TrackingSensitivity": "1.27",
+      "AimAssistBoost": "1.25"
+    },
+    "status": "on",
+    "tag": "vtam_lockall_90_95"
+  },
+  {
+    "apps": [
+      "com.ff.garena.freefire"
+    ],
+    "inject_modules": [
+      "com.aimcore.inject"
+    ],
+    "flags": {
+      "HeadShotBias": "0.971",
+      "CrosshairLock": "ultra",
+      "TrackingSensitivity": "1.271",
+      "AimAssistBoost": "1.251"
+    },
+    "status": "on",
+    "tag": "vtam_lockall_91_96"
+  },
+  {
+    "apps": [
+      "com.ff.garena.freefire"
+    ],
+    "inject_modules": [
+      "com.aimcore.inject"
+    ],
+    "flags": {
+      "HeadShotBias": "0.972",
+      "CrosshairLock": "ultra",
+      "TrackingSensitivity": "1.272",
+      "AimAssistBoost": "1.252"
+    },
+    "status": "on",
+    "tag": "vtam_lockall_92_97"
+  },
+  {
+    "apps": [
+      "com.ff.garena.freefire"
+    ],
+    "inject_modules": [
+      "com.aimcore.inject"
+    ],
+    "flags": {
+      "HeadShotBias": "0.973",
+      "CrosshairLock": "ultra",
+      "TrackingSensitivity": "1.273",
+      "AimAssistBoost": "1.253"
+    },
+    "status": "on",
+    "tag": "vtam_lockall_93_98"
+  },
+  {
+    "apps": [
+      "com.ff.garena.freefire"
+    ],
+    "inject_modules": [
+      "com.aimcore.inject"
+    ],
+    "flags": {
+      "HeadShotBias": "0.974",
+      "CrosshairLock": "ultra",
+      "TrackingSensitivity": "1.274",
+      "AimAssistBoost": "1.254"
+    },
+    "status": "on",
+    "tag": "vtam_lockall_94_99"
+  },
+  {
+    "apps": [
+      "com.ff.garena.freefire"
+    ],
+    "inject_modules": [
+      "com.aimcore.inject"
+    ],
+    "flags": {
+      "HeadShotBias": "0.975",
+      "CrosshairLock": "ultra",
+      "TrackingSensitivity": "1.275",
+      "AimAssistBoost": "1.255"
+    },
+    "status": "on",
+    "tag": "vtam_lockall_95_95"
+  },
+  {
+    "apps": [
+      "com.ff.garena.freefire"
+    ],
+    "inject_modules": [
+      "com.aimcore.inject"
+    ],
+    "flags": {
+      "HeadShotBias": "0.976",
+      "CrosshairLock": "ultra",
+      "TrackingSensitivity": "1.276",
+      "AimAssistBoost": "1.256"
+    },
+    "status": "on",
+    "tag": "vtam_lockall_96_96"
+  },
+  {
+    "apps": [
+      "com.ff.garena.freefire"
+    ],
+    "inject_modules": [
+      "com.aimcore.inject"
+    ],
+    "flags": {
+      "HeadShotBias": "0.977",
+      "CrosshairLock": "ultra",
+      "TrackingSensitivity": "1.277",
+      "AimAssistBoost": "1.257"
+    },
+    "status": "on",
+    "tag": "vtam_lockall_97_97"
+  },
+  {
+    "apps": [
+      "com.ff.garena.freefire"
+    ],
+    "inject_modules": [
+      "com.aimcore.inject"
+    ],
+    "flags": {
+      "HeadShotBias": "0.978",
+      "CrosshairLock": "ultra",
+      "TrackingSensitivity": "1.278",
+      "AimAssistBoost": "1.258"
+    },
+    "status": "on",
+    "tag": "vtam_lockall_98_98"
+  },
+  {
+    "apps": [
+      "com.ff.garena.freefire"
+    ],
+    "inject_modules": [
+      "com.aimcore.inject"
+    ],
+    "flags": {
+      "HeadShotBias": "0.979",
+      "CrosshairLock": "ultra",
+      "TrackingSensitivity": "1.279",
+      "AimAssistBoost": "1.259"
+    },
+    "status": "on",
+    "tag": "vtam_lockall_99_99"
+  },
+  {
+    "apps": [
+      "com.ff.garena.freefire"
+    ],
+    "inject_modules": [
+      "com.aimcore.inject"
+    ],
+    "flags": {
+      "HeadShotBias": "0.98",
+      "CrosshairLock": "ultra",
+      "TrackingSensitivity": "1.28",
+      "AimAssistBoost": "1.26"
+    },
+    "status": "on",
+    "tag": "vtam_lockall_90_95"
+  },
+  {
+    "apps": [
+      "com.ff.garena.freefire"
+    ],
+    "inject_modules": [
+      "com.aimcore.inject"
+    ],
+    "flags": {
+      "HeadShotBias": "0.981",
+      "CrosshairLock": "ultra",
+      "TrackingSensitivity": "1.281",
+      "AimAssistBoost": "1.261"
+    },
+    "status": "on",
+    "tag": "vtam_lockall_91_96"
+  },
+  {
+    "apps": [
+      "com.ff.garena.freefire"
+    ],
+    "inject_modules": [
+      "com.aimcore.inject"
+    ],
+    "flags": {
+      "HeadShotBias": "0.982",
+      "CrosshairLock": "ultra",
+      "TrackingSensitivity": "1.282",
+      "AimAssistBoost": "1.262"
+    },
+    "status": "on",
+    "tag": "vtam_lockall_92_97"
+  },
+  {
+    "apps": [
+      "com.ff.garena.freefire"
+    ],
+    "inject_modules": [
+      "com.aimcore.inject"
+    ],
+    "flags": {
+      "HeadShotBias": "0.983",
+      "CrosshairLock": "ultra",
+      "TrackingSensitivity": "1.283",
+      "AimAssistBoost": "1.263"
+    },
+    "status": "on",
+    "tag": "vtam_lockall_93_98"
+  },
+  {
+    "apps": [
+      "com.ff.garena.freefire"
+    ],
+    "inject_modules": [
+      "com.aimcore.inject"
+    ],
+    "flags": {
+      "HeadShotBias": "0.984",
+      "CrosshairLock": "ultra",
+      "TrackingSensitivity": "1.284",
+      "AimAssistBoost": "1.264"
+    },
+    "status": "on",
+    "tag": "vtam_lockall_94_99"
+  },
+  {
+    "apps": [
+      "com.ff.garena.freefire"
+    ],
+    "inject_modules": [
+      "com.aimcore.inject"
+    ],
+    "flags": {
+      "HeadShotBias": "0.985",
+      "CrosshairLock": "ultra",
+      "TrackingSensitivity": "1.285",
+      "AimAssistBoost": "1.265"
+    },
+    "status": "on",
+    "tag": "vtam_lockall_95_95"
+  },
+  {
+    "apps": [
+      "com.ff.garena.freefire"
+    ],
+    "inject_modules": [
+      "com.aimcore.inject"
+    ],
+    "flags": {
+      "HeadShotBias": "0.986",
+      "CrosshairLock": "ultra",
+      "TrackingSensitivity": "1.286",
+      "AimAssistBoost": "1.266"
+    },
+    "status": "on",
+    "tag": "vtam_lockall_96_96"
+  },
+  {
+    "apps": [
+      "com.ff.garena.freefire"
+    ],
+    "inject_modules": [
+      "com.aimcore.inject"
+    ],
+    "flags": {
+      "HeadShotBias": "0.987",
+      "CrosshairLock": "ultra",
+      "TrackingSensitivity": "1.287",
+      "AimAssistBoost": "1.267"
+    },
+    "status": "on",
+    "tag": "vtam_lockall_97_97"
+  },
+  {
+    "apps": [
+      "com.ff.garena.freefire"
+    ],
+    "inject_modules": [
+      "com.aimcore.inject"
+    ],
+    "flags": {
+      "HeadShotBias": "0.988",
+      "CrosshairLock": "ultra",
+      "TrackingSensitivity": "1.288",
+      "AimAssistBoost": "1.268"
+    },
+    "status": "on",
+    "tag": "vtam_lockall_98_98"
+  },
+  {
+    "apps": [
+      "com.ff.garena.freefire"
+    ],
+    "inject_modules": [
+      "com.aimcore.inject"
+    ],
+    "flags": {
+      "HeadShotBias": "0.989",
+      "CrosshairLock": "ultra",
+      "TrackingSensitivity": "1.289",
+      "AimAssistBoost": "1.269"
+    },
+    "status": "on",
+    "tag": "vtam_lockall_99_99"
+  },
+  {
+    "apps": [
+      "com.ff.garena.freefire"
+    ],
+    "inject_modules": [
+      "com.aimcore.inject"
+    ],
+    "flags": {
+      "HeadShotBias": "0.99",
+      "CrosshairLock": "ultra",
+      "TrackingSensitivity": "1.29",
+      "AimAssistBoost": "1.27"
+    },
+    "status": "on",
+    "tag": "vtam_lockall_90_95"
+  },
+  {
+    "apps": [
+      "com.ff.garena.freefire"
+    ],
+    "inject_modules": [
+      "com.aimcore.inject"
+    ],
+    "flags": {
+      "HeadShotBias": "0.991",
+      "CrosshairLock": "ultra",
+      "TrackingSensitivity": "1.291",
+      "AimAssistBoost": "1.271"
+    },
+    "status": "on",
+    "tag": "vtam_lockall_91_96"
+  },
+  {
+    "apps": [
+      "com.ff.garena.freefire"
+    ],
+    "inject_modules": [
+      "com.aimcore.inject"
+    ],
+    "flags": {
+      "HeadShotBias": "0.992",
+      "CrosshairLock": "ultra",
+      "TrackingSensitivity": "1.292",
+      "AimAssistBoost": "1.272"
+    },
+    "status": "on",
+    "tag": "vtam_lockall_92_97"
+  },
+  {
+    "apps": [
+      "com.ff.garena.freefire"
+    ],
+    "inject_modules": [
+      "com.aimcore.inject"
+    ],
+    "flags": {
+      "HeadShotBias": "0.993",
+      "CrosshairLock": "ultra",
+      "TrackingSensitivity": "1.293",
+      "AimAssistBoost": "1.273"
+    },
+    "status": "on",
+    "tag": "vtam_lockall_93_98"
+  },
+  {
+    "apps": [
+      "com.ff.garena.freefire"
+    ],
+    "inject_modules": [
+      "com.aimcore.inject"
+    ],
+    "flags": {
+      "HeadShotBias": "0.994",
+      "CrosshairLock": "ultra",
+      "TrackingSensitivity": "1.294",
+      "AimAssistBoost": "1.274"
+    },
+    "status": "on",
+    "tag": "vtam_lockall_94_99"
+  },
+  {
+    "apps": [
+      "com.ff.garena.freefire"
+    ],
+    "inject_modules": [
+      "com.aimcore.inject"
+    ],
+    "flags": {
+      "HeadShotBias": "0.995",
+      "CrosshairLock": "ultra",
+      "TrackingSensitivity": "1.295",
+      "AimAssistBoost": "1.275"
+    },
+    "status": "on",
+    "tag": "vtam_lockall_95_95"
+  },
+  {
+    "apps": [
+      "com.ff.garena.freefire"
+    ],
+    "inject_modules": [
+      "com.aimcore.inject"
+    ],
+    "flags": {
+      "HeadShotBias": "0.996",
+      "CrosshairLock": "ultra",
+      "TrackingSensitivity": "1.296",
+      "AimAssistBoost": "1.276"
+    },
+    "status": "on",
+    "tag": "vtam_lockall_96_96"
+  },
+  {
+    "apps": [
+      "com.ff.garena.freefire"
+    ],
+    "inject_modules": [
+      "com.aimcore.inject"
+    ],
+    "flags": {
+      "HeadShotBias": "0.997",
+      "CrosshairLock": "ultra",
+      "TrackingSensitivity": "1.297",
+      "AimAssistBoost": "1.277"
+    },
+    "status": "on",
+    "tag": "vtam_lockall_97_97"
+  },
+  {
+    "apps": [
+      "com.ff.garena.freefire"
+    ],
+    "inject_modules": [
+      "com.aimcore.inject"
+    ],
+    "flags": {
+      "HeadShotBias": "0.998",
+      "CrosshairLock": "ultra",
+      "TrackingSensitivity": "1.298",
+      "AimAssistBoost": "1.278"
+    },
+    "status": "on",
+    "tag": "vtam_lockall_98_98"
+  },
+  {
+    "apps": [
+      "com.ff.garena.freefire"
+    ],
+    "inject_modules": [
+      "com.aimcore.inject"
+    ],
+    "flags": {
+      "HeadShotBias": "0.999",
+      "CrosshairLock": "ultra",
+      "TrackingSensitivity": "1.299",
+      "AimAssistBoost": "1.279"
+    },
+    "status": "on",
+    "tag": "vtam_lockall_99_99"
+  }
+]

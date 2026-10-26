@@ -1,0 +1,14 @@
+const touchOptimizer = {
+    samplingRate: 480,
+    latencyReduction: 0.01,
+    apply: function(dx, dy) {
+        let scale = this.samplingRate / 240.0;
+        let nx = dx * scale;
+        let ny = dy * scale;
+        if (Math.abs(nx) < this.latencyReduction) nx = 0;
+        if (Math.abs(ny) < this.latencyReduction) ny = 0;
+        return { dx: nx, dy: ny };
+    }
+};
+let touchMove = touchOptimizer.apply(2.5, -1.5);
+console.log("[TouchOpt] DX: " + touchMove.dx.toFixed(3) + " | DY: " + touchMove.dy.toFixed(3));
